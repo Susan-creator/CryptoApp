@@ -9,7 +9,7 @@ class AddView extends StatefulWidget {
 class _AddViewState extends State<AddView> {
   List<String> coins = [
     'bitcoin',
-    ' usdt tether',
+    'usdt tether',
     'ethereum',
   ];
 
