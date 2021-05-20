@@ -1,4 +1,4 @@
-import 'package:crypto_app/model/flutterfire.dart';
+import 'package:crypto_app/services/flutterfire.dart';
 import 'package:crypto_app/ui/home_view.dart';
 import 'package:flutter/material.dart';
 

@@ -1,4 +1,4 @@
-import 'package:crypto_app/model/flutterfire.dart';
+import 'package:crypto_app/services/flutterfire.dart';
 import 'package:flutter/material.dart';
 
 class AddView extends StatefulWidget {
@@ -9,8 +9,8 @@ class AddView extends StatefulWidget {
 class _AddViewState extends State<AddView> {
   List<String> coins = [
     'bitcoin',
-    'usdt tether',
     'ethereum',
+    'tether',
   ];
 
   String dropdownValue = 'bitcoin';

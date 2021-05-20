@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:crypto_app/model/api_methods.dart';
-import 'package:crypto_app/model/flutterfire.dart';
+import 'package:crypto_app/services/api_methods.dart';
+import 'package:crypto_app/services/flutterfire.dart';
 import 'package:crypto_app/ui/add_view.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
